@@ -9,10 +9,6 @@ install.packages("RedditExtractoR")
 library(RedditExtractoR)
 ```
 
-## Including Plots
-
-You can also embed plots, for example:
-
 ```{r}
 test_url <- find_thread_urls(subreddit="KansasCityChiefs", sort_by="top")
 ```
