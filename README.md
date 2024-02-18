@@ -2,7 +2,7 @@
 
 Code for various projects in DS 4002 Spring 2024. Group 5 consists of Andrea, Cato, and Charlie.
 
-We analyze posts from the Kansas City Chiefs subreddit to answer the question: Will the sentiment of tweets about the Kansas City Chiefs have changed a significant amount (a magnitude of greater than 0.05 sentiment score) after the first game Taylor Swift attended (September 24, 2023)? We hypothesize that there will be a significant increase in the sentiment score of the posts after the announcement that Taylor Swift is dating star player, Travis Kelce.
+We analyzed posts from the Kansas City Chiefs subreddit to answer the question: Will the sentiment of tweets about the Kansas City Chiefs have changed a significant amount (a magnitude of greater than 0.05 sentiment score) after the first game Taylor Swift attended (September 24, 2023)? We hypothesize that there will be a significant increase in the sentiment score of the posts after the announcement that Taylor Swift is dating star player, Travis Kelce.
 
 ## Content 
 README.md -- Serves as an orientation to everyone who comes to this repository, it should enable you to get their bearings. You are in the README.md file now.
