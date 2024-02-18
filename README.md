@@ -41,14 +41,11 @@ The platform we used for our project was Mac.
 * DATA folder:
   * chiefs_data.csv
   * one more file I still need to add
-
 * SCRIPTS folder:
   * mi2_project_1_code.py
   * or tbd
-
 * OUTPUT folder:
   * tbd
-
 * LICENSE.md
 * README.md
 
