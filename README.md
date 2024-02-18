@@ -21,16 +21,17 @@ The add-on packages we used in R are:
 * library(RedditExtractoR)
 * library(dplyr)
 * library(stringr)
+
 The add-on packages we used in Python are:
-!pip install vaderSentiment
-import vaderSentiment
-import pandas as pd
-import matplotlib.pyplot as plt
-from textblob import TextBlob
-import numpy as np
-import seaborn as sns
-from wordcloud import WordCloud
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+* !pip install vaderSentiment
+* import vaderSentiment
+* import pandas as pd
+* import matplotlib.pyplot as plt
+* from textblob import TextBlob
+* import numpy as np
+* import seaborn as sns
+* from wordcloud import WordCloud
+* from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 The platform we used for our project was Mac.
 
