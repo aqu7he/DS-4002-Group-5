@@ -1,5 +1,6 @@
 # DS-4002-Group-5
 
+
 Code for various projects in DS 4002 Spring 2024. Group 5 consists of Andrea, Cato, and Charlie.
 
 We analyzed posts from the Kansas City Chiefs subreddit to answer the question: Will the sentiment of tweets about the Kansas City Chiefs have changed a significant amount (a magnitude of greater than 0.05 sentiment score) after the first game Taylor Swift attended (September 24, 2023)? We hypothesize that there will be a significant increase in the sentiment score of the posts after the announcement that Taylor Swift is dating star player, Travis Kelce.
@@ -41,6 +42,8 @@ The platform we used for our project was Mac.
 ### What you will find in this repo:
 * DATA folder:
   * chiefs_data.csv
+  * RedditExtractoR.pdf
+  * Reddit_data.Rmd
   * one more file I still need to add
 * SCRIPTS folder:
   * mi2_project_1_code.py
@@ -51,6 +54,10 @@ The platform we used for our project was Mac.
 * README.md
 
 ## Section 3: Instructions for reproducing results
+1. To replicate our results, first download the files in the DATA folder.
+2. Prepare R and Python - Import the necessary libraries and add-on packages. For R, you will need to install the RedditExtractor to secure your dataset. For Python, you will need to install the VADER package to assign the dataset a sentiment score. 
+3. Run master script file - In the SCRIPTS folder, download and run the mi2_project_1_code.py script in python. 
+4. Analyze the results - After running the master script, there should have resulted in some graphs and figures. Cross reference these with the graphs and figures uploaded in the OUTPUT folder. 
 
 ## Resources:
 [1] “Swift effect: Kelce jersey sales see 400% spike,” ESPN.com, Sep. 26, 2023. https://www.espn.com/nfl/story/_/id/38496220/taylor-swift-effect-travis-kelce-jersey-sales-spike-nearly-400
