@@ -44,7 +44,7 @@ The platform we used for our project was Mac.
   * chiefs_data.csv
   * RedditExtractoR.pdf
   * Reddit_data.Rmd
-  * one more file I still need to add
+  * clean_chiefs_data.csv
 * SCRIPTS folder:
   * mi2_project_1_code.py
   * or tbd
